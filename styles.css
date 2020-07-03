@@ -1,0 +1,38 @@
+body {
+  background-color: #400082;
+}
+h1 {
+  color: #00bdaa;
+  background-color: #fe346e;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Inconsolata", monospace;
+}
+p {
+  color: #f1e7b6;
+  line-height: 30px;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Pangolin", cursive;
+}
+a {
+  font-size: 30px;
+  text-decoration: none;
+  color: #fe346e;
+}
+h3 {
+  color: #00bdaa;
+  text-decoration: underline;
+  font-size: 25px;
+  font-family: "Inconsolata", monospace;
+}
+ol {
+  color: #fe346e;
+  font-size: 20px;
+}
+table {
+  color: #f1e7b6;
+  border-collapse: collapse;
+  border-color: #f1e7b6;
+  font-size: 18px;
+}
